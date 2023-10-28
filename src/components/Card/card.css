@@ -13,35 +13,14 @@
   padding: 2rem;
 }
 
-.btn {
-  width: 60%;
-  padding: 1rem;
-  border-radius: 1rem;
-  background-color: hsl(0, 0%, 95%);
-  border-style: none;
-  
-}
-
 .sedans {
   background-color: hsl(31, 77%, 52%);
   border-top-right-radius: .5rem;
   border-top-left-radius: .5rem;
 }
 
-.sedans .btn {
-  color: hsl(31, 77%, 52%);
-}
-
 .suvs {
   background-color: hsl(184, 100%, 22%);
-}
-
-.suvs .btn {
-  color: hsl(184, 100%, 22%)
-}
-
-.luxury .btn {
-  color: hsl(179, 100%, 13%)
 }
 
 .luxury {
@@ -62,7 +41,7 @@
   color: hsla(0, 0%, 100%, 0.75) ;
 }
 
-
+/* Tablet/Laptop Design */
 @media screen and (min-width: 650px) {
   .card-container {
     display: grid;
@@ -97,9 +76,5 @@
     padding: 3rem;
   }
 
-  .btn {
-    margin-top: 3rem;
-    width: 70%;
-    padding: .75rem;
-  }
+
 }

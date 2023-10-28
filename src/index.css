@@ -15,10 +15,3 @@ main {
   place-items: center;
   background-color: hsl(0, 0%, 95%);
 }
-
-
-@media screen and (min-width: 600px) {
-
-
-
-}
