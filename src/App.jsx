@@ -1,4 +1,4 @@
-import cars from './components/Content/cars.js'
+import cars from './components/Content/cars.jsx'
 import Card from './components/Card/Card.jsx'
 
 

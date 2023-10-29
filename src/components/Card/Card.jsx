@@ -6,7 +6,7 @@ function Card(props) {
   return (
     <>
       <div className={props.type}>
-        <img src={props.img} alt="Car Icon Image" />
+        {props.img}
         <h1 className='title'>{props.type}</h1>
         <p className='info'>{props.detail}</p>
         <Button />
