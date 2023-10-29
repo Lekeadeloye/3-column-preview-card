@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Lekeadeloye/3-column-preview-card](https://github.com/Lekeadeloye/3-column-preview-card)
+- Live Site URL: [https://lekeadeloye.github.io/3-column-preview-card/](https://lekeadeloye.github.io/3-column-preview-card/)
 
 ## My process
 
